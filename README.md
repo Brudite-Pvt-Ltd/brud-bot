@@ -3,8 +3,6 @@
 Automated programs that look and act like users and automatically respond to events and commands on Discord are called bots 
 
 
-
-
 ## Installation
 
 Prerequisites - 
@@ -15,9 +13,18 @@ Prerequisites -
 
 Steps -  
 
-Clone the project.  
-Install discord.py  
-Update the BOT_TOKEN
+1. **Clone the project.**
+    ```bash
+    git clone https://github.com/Brudite-Pvt-Ltd/brud-bot.git
+    ```
+
+2. **Navigate to the project directory and run the following command to install discord.py**
+    ```bash
+    pip install discord.py
+    ```
+
+3. **Update the BOT_TOKEN**
+
 
 
 ## Commands 
